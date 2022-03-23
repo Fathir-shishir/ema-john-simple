@@ -1,0 +1,13 @@
+.product{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.productComtainer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 45px;
+}
+.oderSummery{
+    background-color: rgba(191, 120, 14, 1);
+    text-align: center;
+}
